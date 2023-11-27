@@ -9,7 +9,6 @@ My name is Baisalbek and I am a front end web developer with 4+ years experience
 <p><img align="center" src="https://profile-counter.glitch.me/{xbaysal11}/count.svg"/></p> 
 <br>
 </div>
-
-![xbaysal11's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbaysal11&show_icons=true&theme=radical)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=xbaysal11&langs_count=12)
 </div>
